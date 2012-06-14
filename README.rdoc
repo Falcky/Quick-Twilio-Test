@@ -1,6 +1,7 @@
-Lil app testing the Twilio API.
-By placing the right info (phone #, SID, etc), you should be able to
-send text messages for each option:
-'why': explains why the person should be hired
-'call': calls them to tell they've been hired
-'bye': exit the session
+= Lil app testing the Twilio API
+
+By placing the right info (phone #, SID, etc), you should be able to send text messages for each option:
+
+* *why*: explains why the person should be hired
+* *call*: calls them to tell they've been hired
+* *bye*: exit the session
